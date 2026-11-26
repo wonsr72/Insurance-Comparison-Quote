@@ -1,0 +1,16 @@
+{
+  "name": "비교견적 - 4Ucare",
+  "short_name": "비교견적",
+  "description": "보장 비교견적 프로그램 (4Ucare)",
+  "start_url": "./비교견적.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#2F6FB5",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
